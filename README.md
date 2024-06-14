@@ -12,4 +12,4 @@ By harnessing the power of Qlik's data-driven insights, the project seeks to:
 
 The project will utilize Qlik Sense, a modern platform for supply chain data analytics, to provide real-time visibility, AI-powered automation, and in-depth analysis of disparate data sources.
 
-**Dataset Link**:  **https://drive.google.com/drive/folders/1xyWOIKdhJ7sXQqFobq485gBJvuR5R9j-?usp=drive_link*
+**Dataset Link**:  **https://drive.google.com/drive/folders/1xyWOIKdhJ7sXQqFobq485gBJvuR5R9j-?usp=drive_link**
